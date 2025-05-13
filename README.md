@@ -1,3 +1,8 @@
+## Full Stack AI Fianace Platform with Next JS, Supabase, Tailwind, Prisma, Inngest, ArcJet, Shadcn UI 🔥🔥
+
+![banner](https://github.com/user-attachments/assets/06eb78da-09db-482b-bbf8-bc2e7f201886)
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
