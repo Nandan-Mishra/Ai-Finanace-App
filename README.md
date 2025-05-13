@@ -1,4 +1,4 @@
-## Full Stack AI Fianace Platform with Next JS, Supabase, Tailwind, Prisma, Inngest, ArcJet, Shadcn UI 🔥🔥
+## Full Stack AI Finance Platform with Next JS, Supabase, Tailwind, Prisma, Inngest, ArcJet, Shadcn UI 🔥🔥
 
 ![banner](https://github.com/user-attachments/assets/06eb78da-09db-482b-bbf8-bc2e7f201886)
 
